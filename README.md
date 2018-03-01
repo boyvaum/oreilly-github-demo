@@ -1,4 +1,4 @@
-My Lovely Project
+My LOVELY PLATFORM
 =================
 
 A great example repo you can fork to your heart’s content, that serves as a launchpad for working your way through the amazing **[Learning GitHub](http://shop.oreilly.com/category/videos/programming.do)** video training series.
@@ -7,7 +7,7 @@ A great example repo you can fork to your heart’s content, that serves as a la
 
 The first thing you want to do with this repo is quite likely **fork it**.  Use the Fork button in the top-right section of the page to do this.
 
-Once you’re on your fork, you can experiment however you like with it, play with branches, issues, milestones, labels, the wiki, and more.
+Once you’re on your fork, you can experiment however you like with it, play with [branches], [issues], [milestones], labels, the wiki, and more.
 
 ## What’s in there?
 
